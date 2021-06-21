@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+PDF version available [here](https://rileyleague.github.io/files/CV.pdf).
+
 {% include base_path %}
 
 Education
