@@ -8,4 +8,4 @@ date: May 2020
 location: "Durham, NC"
 ---
 
-I served as a teaching assistant for the first-year core microeconomics sequence for the economics PhD.
+I served as a teaching assistant for the first-year core microeconomics sequence for the economics PhD during the 2019-2020 academic year.
