@@ -13,4 +13,4 @@ Recent literature provides evidence that income shocks early in life can have lo
 
 Published version available [here](https://www.sciencedirect.com/science/article/pii/S1570677X19301807).
 
-Recommended citation: Fitz, Dylan and Riley League. (2020). &quot;The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing.&quot; <i>Journal of Economics and Human Biology</i>. 37:100843.
+Recommended Citation: Fitz, Dylan and Riley League. (2020). &quot;The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing.&quot; <i>Journal of Economics and Human Biology</i>. 37:100843.
