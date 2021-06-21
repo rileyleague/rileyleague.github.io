@@ -4,7 +4,7 @@ collection: teaching
 type: "Economics PhD Core"
 permalink: /teaching/phdmicro
 venue: "Department of Economics, Duke University"
-date: Fall 2019, Spring 2020
+date: May 2020
 location: "Durham, NC"
 ---
 
