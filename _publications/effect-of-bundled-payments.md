@@ -17,4 +17,4 @@ We consider how health care providers respond to bundled payments. Using claims 
 
 Recent draft available [here](https://rileyleague.github.io/files/bundledpayments.pdf).
 
-Recommended citation: Eliason, Paul, Benjamin Heebsh, Riley League, Ryan McDevitt, and James Roberts. (2020). &quot;The Effect of Bundled Payments on Provider Behavior and Patient Outcomes.&quot. Working Paper.
+Recommended Citation: Eliason, Paul, Benjamin Heebsh, Riley League, Ryan McDevitt, and James Roberts. (2020). &quot;The Effect of Bundled Payments on Provider Behavior and Patient Outcomes.&quot. Working Paper.
