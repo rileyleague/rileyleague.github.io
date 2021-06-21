@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,12 +10,6 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-# Research Papers
 
 ## [School, Shocks, and Safety Nets: Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?](https://rileyleague.github.io/publications/school-shocks-safetynets)
 with Dylan Fitz \
