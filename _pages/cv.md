@@ -34,13 +34,13 @@ Research Experience
   * Vann Center for Ethics
   * May 2016 - September 2016
 
-Publications
+Research Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
