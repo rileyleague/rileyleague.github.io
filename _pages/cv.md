@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics and Philosophy, Davidson College, 2018  
+  * Valedictorian, Summa Cum Laude, High Honors in Philosophy
+* M.A. in Economics, Duke University, 2021
+* Ph.D in Economics, Duke University, 2023 (expected)
 
 Work experience
 ======
@@ -27,15 +28,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +48,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Economics Graduate Student Council
+  * Member of Elected 3-Member Executive Board, 2019 - Present
