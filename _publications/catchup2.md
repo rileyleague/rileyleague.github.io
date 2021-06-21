@@ -2,7 +2,7 @@
 title: "Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil"
 collection: publications
 permalink: /publications/catchup2
-excerpt: 'Early-life shocks often produce negative long-run consequences lasting into adulthood, but little is known about how childhood social programs interact with early-life environments. In this paper, we use delays in enrollment from the rollout of Brazil's Bolsa Familia program'
+excerpt: 'Early-life shocks often produce negative long-run consequences lasting into adulthood, but little is known about how childhood social programs interact with early-life environments. In this paper, we use delays in enrollment from the rollout of Brazil\'s Bolsa Familia program'
 date: June 2021
 venue: 'Journal of Development Studies'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/00220388.2021.1928640?src='
