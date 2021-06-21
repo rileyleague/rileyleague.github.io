@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Core Course"
 permalink: /teaching/davidsonmetrics
 venue: "Department of Economics, Davidson College"
-date: December 2017
+date: 2017-12-01
 location: "Davidson, NC"
 ---
 
