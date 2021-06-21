@@ -16,18 +16,24 @@ Education
 * M.A. in Economics, Duke University, 2021
 * Ph.D in Economics, Duke University, 2023 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant to Jimmy Roberts
+  * Duke University
+  * March 2019 - Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Strategic Research Intern
+  * Institute for Justice
+  * May 2017 - August 2017
   
+* Research Assistant to Dylan Fitz
+  * Davidson College
+  * May 2016 - May 2017
+
+* Donchian Research Fellow
+  * Vann Center for Ethics
+  * May 2016 - September 2016
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -46,7 +52,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Economics Graduate Student Council
   * Member of Elected 3-Member Executive Board, 2019 - Present
