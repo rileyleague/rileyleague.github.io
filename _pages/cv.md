@@ -58,3 +58,8 @@ Service and Leadership
 ======
 * Economics Graduate Student Council
   * Member of Elected 3-Member Executive Board, 2019 - Present
+* Davidson College Varsity Swimming and Diving Team
+  * Member, 2014-2018
+  * Captain, 2016-2018
+  * Academic All-America First Team, 2018
+* Eagle Scout
