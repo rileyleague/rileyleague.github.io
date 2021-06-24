@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin: aqua
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Riley League"
@@ -57,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "rileyleague"
+  username               : &twitter "rileyleague"
 facebook:
   username               :
   app_id                 :
@@ -86,7 +88,7 @@ author:
   location         : "Durham, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ksQ9hTYAAAAJ&hl=en"
   email            : "riley.league@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -318,5 +320,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-minimal_mistakes_skin: aqua
