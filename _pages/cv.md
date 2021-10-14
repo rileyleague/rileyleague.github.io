@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF version available [here](https://rileyleague.github.io/files/CV.pdf).
+PDF version available [here](https://rileyleague.github.io/files/rileyleague@gmail.com - CV_Oct2021.pdf).
 
 {% include base_path %}
 
@@ -58,6 +58,8 @@ Service and Leadership
 ======
 * Economics Graduate Student Council
   * Member of Elected 3-Member Executive Board, 2019 - Present
+* Graduate Mentorship Program
+  * Mentored students from under-represented backgrounds preparing their applications to Economics Ph.D. programs, Fall 2021
 * Davidson College Varsity Swimming and Diving Team
   * Member, 2014-2018
   * Captain, 2016-2018
