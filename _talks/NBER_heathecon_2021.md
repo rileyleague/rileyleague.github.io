@@ -8,6 +8,4 @@ date: 2021-12-10
 location: "Cambridge, MA"
 ---
 
-In this talk, I will present joint work on the impact of various strategies the government has employed to combat health care fraud in the form of medically unnecessary ambulance transports.
-
-More information on this research can be found [here](https://rileyleague.github.io/publications/ambulancefraud).
+In this talk, I will present joint work on the impact of various strategies the government has employed to combat health care fraud in the form of medically unnecessary ambulance transports. More information on this research can be found [here](https://rileyleague.github.io/publications/ambulancefraud).
