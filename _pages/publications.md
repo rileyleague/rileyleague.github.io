@@ -12,6 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Dialysis
+***
 
 ### [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/effect-of-bundled-payments)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
@@ -32,6 +33,7 @@ Under Review
 **Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
 ## Medicare Administration
+***
 
 ### [Global Knowledge Spillovers and Technology Diffusion: The Case of New Medical Procedures](https://rileyleague.github.io/publications/globalspillovers)
 Work in Progress
@@ -44,6 +46,7 @@ Work in Progress
 **Takeaway:** Medicare's decentralized structure contributes to geographic variation in health care spending.
 
 ## Rainfall Shocks and Social Programs
+***
 
 ### [School, Shocks, and Safety Nets: Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?](https://rileyleague.github.io/publications/school-shocks-safetynets)
 
