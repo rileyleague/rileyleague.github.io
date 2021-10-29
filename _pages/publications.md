@@ -24,7 +24,7 @@ Published in _Journal of Economics & Human Biology_, 2020, [Link](https://www.sc
 
 **Takeaway:** Early-life rainfall shocks can cause negative consequences into adulthood, but researchers should pay more attention to specific measurement and timing choices.
 
-## [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/https://rileyleague.github.io/publications/effect-of-bundled-payments)
+## [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/effect-of-bundled-payments)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/bundledpayments.pdf)
 
