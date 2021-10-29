@@ -11,3 +11,5 @@ citation: 'League, Riley and Dylan Fitz. (2021). &quot;Early-Life Shocks and Chi
 **Abstract:** Early-life shocks often produce negative long-run consequences lasting into adulthood, but little is known about how childhood social programs interact with early-life environments. In this paper, we use delays in enrollment from the rollout of Brazil's Bolsa Família program to analyze how longer duration of benefit receipt interacts with variation in early-life conditions coming from in utero rainfall shocks. We find that the duration of Bolsa treatment impacts stunting, obesity, and other health outcomes, with the program driving catch-up growth by being most effective among children whose in utero conditions predisposed them to worse health outcomes.
 
 Recent draft available [here](http://rileyleague.github.io/files/catchup_leaguefitz.pdf).
+
+![CatchupFig](https://rileyleague.github.io/images/Bolsa_stunted.png)
