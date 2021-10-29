@@ -46,9 +46,7 @@ Under Review, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Under Review
 
-**Key Points:** Question: How does the price private insurers pay for hemodialysis services compare to that paid by Medicare, and how does this price vary across time and geography? \
-Findings: In this cross-sectional study of a large sample of claims from employer-sponsored insurance plans, we find that the median price paid by private insurers for outpatient hemodialysis services is $1,476, more than six times the base rate paid by Medicare. Furthermore, we find substantial, statistically significant differences in price across states. \
-Meaning: Lowering the prices paid by private insurers to Medicare rates and discouraging steering patients onto private plans, as proposed by policymakers, would result in substantial savings in spending on hemodialysis.
+**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
 ## [Global Knowledge Spillovers and Technology Diffusion: The Case of New Medical Procedures](https://rileyleague.github.io/publications/globalspillovers)
 Work in Progress
