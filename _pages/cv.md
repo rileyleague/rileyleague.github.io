@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF version available [here](https://rileyleague.github.io/files/rileyleague@gmail.com - CV_Oct2021.pdf).
+PDF version available [here](https://rileyleague.github.io/files/League_Riley_CV_Duke.pdf).
 
 {% include base_path %}
 
