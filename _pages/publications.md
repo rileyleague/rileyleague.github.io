@@ -22,7 +22,7 @@ Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.gith
 
 ### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
 with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Working Paper
+Working Paper, [Link](https://rileyleague.github.io/files/w29491.pdf)
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
 
