@@ -32,6 +32,12 @@ Under Review
 
 **Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
+### [Large Increases in Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Under Review
+
+**Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
+
 ## Medicare Administration
 ***
 
