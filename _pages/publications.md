@@ -26,9 +26,9 @@ Working Paper, [Link](https://rileyleague.github.io/files/w29491.pdf)
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
 
-### [High Prices and Wide Dispersion in Private Insurance Payments for Dialysis](https://rileyleague.github.io/publications/privateprices)
+### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Under Review
+Revise & Resubmit at _JAMA Network Open_
 
 **Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
