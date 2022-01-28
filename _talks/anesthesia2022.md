@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2021NBER_HE
 venue: "IASR, AUA, and SOCCA Annual Meetings"
 date: 2022-03-18
-location: "Honolulu, HI"
+location: "Online"
 ---
 
 In this series of talks at each of the concurrent society meetings, I will present joint work on the cost-effectiveness of a new anesthesia reversal drug called sugammadex.
