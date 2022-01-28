@@ -2,8 +2,8 @@
 title: "2022 International Anesthesia Research Society, Association of University Anesthesiologists, and Society of Critical Care Anesthesiologists Annual Meetings"
 collection: talks
 type: "Talk"
-permalink: /talks/2021NBER_HE
-venue: "IASR, AUA, and SOCCA Annual Meetings"
+permalink: /talks/2022IARS
+venue: "IARS, AUA, and SOCCA Annual Meetings"
 date: 2022-03-18
 location: "Online"
 ---
