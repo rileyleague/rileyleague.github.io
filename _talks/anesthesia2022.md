@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022IARS
 venue: "IARS, AUA, and SOCCA Annual Meetings"
-date: 2022-03-18
+date: 2022-03-17
 location: "Online"
 ---
 
