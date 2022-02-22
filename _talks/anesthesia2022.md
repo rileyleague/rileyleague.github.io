@@ -1,11 +1,11 @@
 ---
-title: "2022 International Anesthesia Research Society, Association of University Anesthesiologists, and Society of Critical Care Anesthesiologists Annual Meetings"
+title: "2022 Association of University Anesthesiologists Annual Meeting"
 collection: talks
 type: "Talk"
 permalink: /talks/2022IARS
-venue: "IARS, AUA, and SOCCA Annual Meetings"
+venue: "AUA Annual Meeting"
 date: 2022-03-17
 location: "Online"
 ---
 
-In this series of talks at each of the concurrent society meetings, I will present joint work on the cost-effectiveness of a new anesthesia reversal drug called sugammadex.
+In this series of talk, I will present joint work on the cost-effectiveness of a new anesthesia reversal drug called sugammadex.
