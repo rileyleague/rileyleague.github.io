@@ -57,13 +57,13 @@ Work in Progress
 ### [School, Shocks, and Safety Nets: Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?](https://rileyleague.github.io/publications/school-shocks-safetynets)
 
 with Dylan Fitz \
-Published in _Journal of Development Studies_, 2021, [Link](https://www.tandfonline.com/doi/full/10.1080/00220388.2021.1928640?src=)
+Published in _Journal of Development Studies_, 2021, [Published Version](https://www.tandfonline.com/doi/full/10.1080/00220388.2021.1928640?src=), [Working Paper Version](https://rileyleague.github.io/files/bolsa_schooling.pdf)
 
 **Takeaway:** Positive rainfall shocks cause lower-income children in Brazil to substitute away from schooling and toward paid labor, but the Bolsa Família program acts as a partial safety net that stabilises human capital investments during short-run shocks.
 
 ### [The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing](https://rileyleague.github.io/publications/impact-of-early-life)
 with Dylan Fitz \
-Published in _Journal of Economics & Human Biology_, 2020, [Link](https://www.sciencedirect.com/science/article/pii/S1570677X19301807)
+Published in _Journal of Economics & Human Biology_, 2020, [Published Version](https://www.sciencedirect.com/science/article/pii/S1570677X19301807), [Working Paper Version](https://rileyleague.github.io/files/measurement.pdf)
 
 **Takeaway:** Early-life rainfall shocks can cause negative consequences into adulthood, but researchers should pay more attention to specific measurement and timing choices.
 
