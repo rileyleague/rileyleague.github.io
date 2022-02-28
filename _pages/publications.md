@@ -28,7 +28,7 @@ Working Paper, [Link](https://rileyleague.github.io/files/w29491.pdf)
 
 ### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Revise & Resubmit at _JAMA Network Open_
+Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
 
 **Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
