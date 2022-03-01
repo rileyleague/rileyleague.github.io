@@ -12,4 +12,6 @@ citation: 'League, Riley, Paul Eliason, Ryan McDevitt, James Roberts, and Heathe
 Findings: In this cross-sectional study of a large sample of claims from employer-sponsored insurance plans, we find that the median price paid by private insurers for outpatient hemodialysis services is $1,476, more than six times the base rate paid by Medicare. Furthermore, we find substantial, statistically significant differences in price across states. \
 Meaning: Lowering the prices paid by private insurers to Medicare rates and discouraging steering patients onto private plans, as proposed by policymakers, would result in substantial savings in spending on hemodialysis.
 
+The open access article can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455). The code used in this analysis is available [here](https://rileyleague.github.io/files/variability_code.zip).
+
 ![PrivatePriceMap](https://rileyleague.github.io/images/price_map.png)
