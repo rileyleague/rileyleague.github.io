@@ -14,6 +14,12 @@ author_profile: true
 ## Dialysis
 ***
 
+### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
+
+**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
+
 ### [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/effect-of-bundled-payments)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/bundledpayments.pdf)
@@ -25,12 +31,6 @@ with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
 Working Paper, [Link](https://rileyleague.github.io/files/w29491.pdf)
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
-
-### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
-
-**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
 ### [Large Increases in Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
