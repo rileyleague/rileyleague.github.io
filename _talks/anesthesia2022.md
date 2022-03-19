@@ -8,4 +8,4 @@ date: 2022-03-17
 location: "Online"
 ---
 
-In this talk, I will present joint work on the cost-effectiveness of a new anesthesia reversal drug called sugammadex.
+In this talk, I presented joint work on the cost-effectiveness of a new anesthesia reversal drug called sugammadex.
