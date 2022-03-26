@@ -41,7 +41,7 @@ Under Review
 ## Medicare Administration
 ***
 
-### [Innovation Adoption and Regulation Under Uncertainty: The Case of New Medical Procedures](https://rileyleague.github.io/publications/globalspillovers)
+### [Innovation Adoption and Regulation Under Uncertainty: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
 Work in Progress
 
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
