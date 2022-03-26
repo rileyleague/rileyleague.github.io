@@ -41,10 +41,10 @@ Under Review
 ## Medicare Administration
 ***
 
-### [Global Knowledge Spillovers and Technology Diffusion: The Case of New Medical Procedures](https://rileyleague.github.io/publications/globalspillovers)
+### [Innovation Adoption and Regulation Under Uncertainty: The Case of New Medical Procedures](https://rileyleague.github.io/publications/globalspillovers)
 Work in Progress
 
-**Takeaway:** Information gained by physicians with exogenous incentives to adopt a new technology spilled over to later-adopting physicians, contributing to the rapid adoption and diffusion of extended Holter monitors.
+**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
 ### [The Impact of Private Medicare Administrators on Health Care Delivery](https://rileyleague.github.io/publications/MAC_effect)
 Work in Progress
