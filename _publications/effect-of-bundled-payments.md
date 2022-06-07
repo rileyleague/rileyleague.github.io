@@ -11,3 +11,5 @@ citation: 'Eliason, Paul, Benjamin Heebsh, Riley League, Ryan McDevitt, and Jame
 **Abstract:** We consider how health care providers respond to changes in the composition of bundled payments. After Medicare switched from fee-for-service reimbursements to a bundle, dialysis facilities halved their use of injectable anemia drugs. We identify the causal effects of this change using a novel source of variation—patients at higher elevations naturally require lower doses of anemia drugs—and show the reduction caused mortality to decline but transfusions to rise. Providers reduced costs by allowing spillovers to treatments outside the bundle and increased allocative efficiency by cutting doses more for patients who receive little benefit from the drug.
 
 Recent draft available [here](https://rileyleague.github.io/files/bundledpayments.pdf).
+
+![BundleIVFig](https://rileyleague.github.io/images/wholestory_fig.png)
