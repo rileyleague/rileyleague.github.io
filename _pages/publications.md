@@ -38,10 +38,16 @@ Under Review
 
 **Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
 
+### [COVID-19 Hospitalization Rate Among Privately Insured Dialysis Patients](https://rileyleague.github.io/publications/dialcovid)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Under Review
+
+**Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
+
 ## Medicare Administration
 ***
 
-### [Innovation Adoption and Regulation Under Uncertainty: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
+### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
 Work in Progress
 
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
