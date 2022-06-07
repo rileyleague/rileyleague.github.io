@@ -14,4 +14,6 @@ patients’ health outcomes did not change, indicating that most rides were not 
 
 NBER Working Paper version available [here](https://rileyleague.github.io/files/w29491.pdf).
 
+I discussed this paper on the Unbiased Estimator podcast, which can be found [here](https://sites.duke.edu/medecon/s1e3-can-prior-authorization-stop-ambulance-taxis-riley-league/).
+
 ![AmbulanceTaxiFig](https://rileyleague.github.io/images/three_lines_arrow.png)
