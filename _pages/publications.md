@@ -52,10 +52,10 @@ Work in Progress
 
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
-### [The Impact of Private Medicare Administrators on Health Care Delivery](https://rileyleague.github.io/publications/MAC_effect)
+### [Provider Responses to Administrative Burden: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Work in Progress
 
-**Takeaway:** Medicare's decentralized structure contributes to geographic variation in health care spending.
+**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers bill more aggressively.
 
 ## Rainfall Shocks and Social Programs
 ***
