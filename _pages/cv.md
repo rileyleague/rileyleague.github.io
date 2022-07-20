@@ -56,10 +56,10 @@ Teaching
   
 Service and Leadership
 ======
-* Economics Graduate Student Council
-  * Member of Elected 3-Member Executive Board, 2019 - Present
 * Graduate Mentorship Program
-  * Mentored students from under-represented backgrounds preparing their applications to Economics Ph.D. programs, Fall 2021
+  * Mentored students from under-represented backgrounds preparing their applications to Economics Ph.D. programs, Fall 2021, 2022
+* Economics Graduate Student Council
+  * Member of Elected 3-Member Executive Board, 2019 - 2022
 * Davidson College Varsity Swimming and Diving Team
   * Member, 2014-2018
   * Captain, 2016-2018
