@@ -26,17 +26,17 @@ Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.gith
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, causing spillovers to treatments outside the bundle but better targeting doses to patients that benefit more from the drug.
 
+### [Large Increases in Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Revise & Resubmit at _JAMA Network Open_
+
+**Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
+
 ### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
 with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
 Working Paper, [Link](https://rileyleague.github.io/files/w29491.pdf)
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
-
-### [Large Increases in Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Under Review
-
-**Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
 
 ### [COVID-19 Hospitalization Rate Among Privately Insured Dialysis Patients](https://rileyleague.github.io/publications/dialcovid)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
