@@ -3,7 +3,7 @@ title: "Administrative Burden and Consolidation in Health Care: Evidence from Me
 collection: publications
 permalink: /publications/MAC_effect
 excerpt: "The US health care system is rife with administrative burdens, including those imposed on providers by claim denials. Nonetheless, there is little evidence on the response of providers to changes in this burden. In this paper, I examine provider responses to changes in the administrative burden they face following consolidation in the administrative jurisdictions of Medicare contractors. Using a two-way fixed effects model, I exploit the transition of jurisdictions across contractors to identify the effect of each contractor on the denial rate faced by providers, finding wide variation in denial rates across contractors. I then investigate the responses of providers to transitions of their jurisdiction across contractors imposing different levels of administrative burden. I find that providers alter their billing practices in the months following a transition as providers comply with new billing rules. When exposed to more frequent denials, providers respond by billing more aggressively, with this response negating the effect of more aggressive denials on net Medicare spending. I also find that for low value services, very large changes in the denial rate can induce providers to decrease their use of the procedure. My results indicate that administrative burdens must be targeted and salient to achieve their desired effect."
-date: June 2022
+date: August 2022
 venue: 'Work in Progress'
 citation: 'Riley League. (2022). &quot;Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions&quot; Work in Progress.'
 ---
