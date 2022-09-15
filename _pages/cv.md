@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF version available [here](https://rileyleague.github.io/files/League_Riley_CV_Duke.pdf).
+PDF version available [here](https://rileyleague.github.io/files/League_Riley_CV.pdf).
 
 {% include base_path %}
 
@@ -18,6 +18,18 @@ Education
 * M.A. in Economics, Duke University, 2021
 * Ph.D in Economics, Duke University, 2023 (expected)
 
+Research Papers
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Conference Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 Research Experience
 ======
 * Research Assistant to Jimmy Roberts
@@ -36,18 +48,6 @@ Research Experience
   * Vann Center for Ethics
   * May 2016 - September 2016
 
-Research Papers
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Conference Presentations
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
