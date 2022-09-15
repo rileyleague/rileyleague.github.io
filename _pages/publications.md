@@ -11,6 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
+## Medicare Administration
+***
+
+### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
+**Job Market Paper**
+
+**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending.
+
+### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
+Work in Progress
+
+**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
+
 ## Dialysis
 ***
 
@@ -43,19 +56,6 @@ with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Under Review
 
 **Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
-
-## Medicare Administration
-***
-
-### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
-Work in Progress
-
-**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
-
-### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
-Work in Progress
-
-**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending.
 
 ## Rainfall Shocks and Social Programs
 ***
