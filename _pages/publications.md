@@ -39,7 +39,7 @@ Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.gith
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, causing spillovers to treatments outside the bundle but better targeting doses to patients that benefit more from the drug.
 
-### [Large Increases in Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
+### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Revise & Resubmit at _JAMA Network Open_
 
