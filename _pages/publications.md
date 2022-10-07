@@ -29,23 +29,11 @@ Work in Progress
 ## Dialysis
 ***
 
-### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
-
-**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
-
 ### [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/effect-of-bundled-payments)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/bundledpayments.pdf)
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, causing spillovers to treatments outside the bundle but better targeting doses to patients that benefit more from the drug.
-
-### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Revise & Resubmit at _JAMA Network Open_
-
-**Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
 
 ### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
 with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
@@ -59,8 +47,26 @@ Under Review
 
 **Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
 
+### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
+
+**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
+
+### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Forthcoming in _JAMA Network Open_
+
+**Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
+
 ## Rainfall Shocks and Social Programs
 ***
+
+### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
+with Dylan Fitz \
+Working Paper, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
+
+**Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
 
 ### [School, Shocks, and Safety Nets: Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?](https://rileyleague.github.io/publications/school-shocks-safetynets)
 
@@ -74,9 +80,3 @@ with Dylan Fitz \
 Published in _Journal of Economics & Human Biology_, 2020, [Published Version](https://www.sciencedirect.com/science/article/pii/S1570677X19301807), [Working Paper Version](https://rileyleague.github.io/files/measurement.pdf)
 
 **Takeaway:** Early-life rainfall shocks can cause negative consequences into adulthood, but researchers should pay more attention to specific measurement and timing choices.
-
-### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
-with Dylan Fitz \
-Working Paper, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
-
-**Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
