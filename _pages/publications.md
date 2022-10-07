@@ -47,17 +47,17 @@ Under Review
 
 **Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
 
-### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
-
-**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
-
 ### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Forthcoming in _JAMA Network Open_
 
 **Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
+
+### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
+
+**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
 ## Rainfall Shocks and Social Programs
 ***
