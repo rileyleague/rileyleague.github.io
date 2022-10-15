@@ -13,21 +13,13 @@ author_profile: true
 
 Please click [here](https://rileyleague.github.io/files/League_Riley_Research_Statement.pdf) for my research statement.
 
-## Medicare Administration
+## Working Papers and Works in Progress
 ***
 
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Job Market Paper
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
-
-### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
-Work in Progress
-
-**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
-
-## Dialysis
-***
 
 ### [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/effect-of-bundled-payments)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
@@ -47,6 +39,20 @@ Under Review
 
 **Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
 
+### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
+with Dylan Fitz \
+Working Paper, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
+
+**Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
+
+### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
+Work in Progress
+
+**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
+
+## Published Papers
+***
+
 ### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Forthcoming in _JAMA Network Open_
@@ -58,15 +64,6 @@ with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
 
 **Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
-
-## Rainfall Shocks and Social Programs
-***
-
-### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
-with Dylan Fitz \
-Working Paper, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
-
-**Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
 
 ### [School, Shocks, and Safety Nets: Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?](https://rileyleague.github.io/publications/school-shocks-safetynets)
 
