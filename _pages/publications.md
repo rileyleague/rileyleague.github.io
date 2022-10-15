@@ -33,17 +33,17 @@ NBER Working Paper, [Link](https://rileyleague.github.io/files/w29491.pdf)
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
 
-### [COVID-19 Hospitalization Rate Among Privately Insured Dialysis Patients](https://rileyleague.github.io/publications/dialcovid)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Under Review
-
-**Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
-
 ### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
 with Dylan Fitz \
 Working Paper, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
 
 **Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
+
+### [COVID-19 Hospitalization Rate Among Privately Insured Dialysis Patients](https://rileyleague.github.io/publications/dialcovid)
+with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Under Review
+
+**Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
 
 ### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
 Work in Progress
