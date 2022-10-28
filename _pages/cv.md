@@ -34,19 +34,19 @@ Research Experience
 ======
 * Research Assistant to Jimmy Roberts
   * Duke University
-  * March 2019 - Present
+  * March 2019 -- Present
 
 * Strategic Research Intern
   * Institute for Justice
-  * May 2017 - August 2017
+  * May 2017 -- August 2017
   
 * Research Assistant to Dylan Fitz
   * Davidson College
-  * May 2016 - May 2017
+  * May 2016 -- May 2017
 
 * Donchian Research Fellow
   * Vann Center for Ethics
-  * May 2016 - September 2016
+  * May 2016 -- September 2016
 
 Teaching
 ======
@@ -58,10 +58,24 @@ Service and Leadership
 ======
 * Graduate Mentorship Program
   * Mentored students from under-represented backgrounds preparing their applications to Economics Ph.D. programs, Fall 2021, 2022
+* Undergraduate Academic Advising
+  * Advised undergraduate economics majors on course planning and degree progress, Fall 2019 -- 2022
 * Economics Graduate Student Council
-  * Member of Elected 3-Member Executive Board, 2019 - 2022
+  * Member of Elected 3-Member Executive Board, 2019 -- 2022
 * Davidson College Varsity Swimming and Diving Team
   * Member, 2014-2018
   * Captain, 2016-2018
   * Academic All-America First Team, 2018
 * Eagle Scout
+
+References
+======
+* Jimmy Roberts
+  * j.roberts@duke.edu
+* Ryan McDevitt
+  * ryan.mcdevitt@duke.edu
+* Daniel Xu
+  * daniel.xu@duke.edu
+* Michael Frakes
+  * michael.frakes@law.duke.edu
+  
