@@ -20,7 +20,7 @@ Education
 
 Research Papers
 ======
-  <ul>{% for post in site.publications %}
+  <ul reversed>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
