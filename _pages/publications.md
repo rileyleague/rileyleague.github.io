@@ -55,7 +55,7 @@ Work in Progress
 
 ### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Forthcoming in _JAMA Network Open_
+Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797907?widget=personalizedcontent&previousarticle=0)
 
 **Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
 
