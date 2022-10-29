@@ -2,12 +2,22 @@
 title: "Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care"
 collection: publications
 permalink: /publications/privateinitiate
-excerpt: "Despite a widespread belief that private insurers spend large amounts on health care for enrollees on dialysis, data limitations have so far precluded a comprehensive analysis of the topic. We analyze claims data from a large, national sample of private employer-sponsored insurance claims of enrollees who initiate dialysis care. We limit the sample to beneficiaries continuously enrolled in the 12 months prior to their first claim for dialysis care and the 12 months after. We then compare the monthly spending overall and by type of care before and after these patients initiate dialysis, controlling for patient and plan characteristics. We find that total monthly spending increases $13,951 (95% confidence interval [CI], $13,708-$14,195) following the average enrollee’s first dialysis treatment. This change stems from increases across all categories of spending (dialysis, non-dialysis outpatient, inpatient, physician services, and prescription drug). Monthly patient out-of-pocket spending increases $175 (95% CI, $167-$182). These spending increases occur abruptly at the initiation of dialysis, with only a small uptick in spending before beginning dialysis. When a privately insured patient initiates dialysis, their insurer experiences a significant and sustained increase in spending."
-date: November 2021
-venue: 'Revise and Resubmit at JAMA Network Open'
-citation: 'League, Riley, Paul Eliason, Ryan McDevitt, James Roberts, and Heather Wong. (2022). &quot;Large Increases in Health Care Spending Among Privately Insured Patients Initiating Dialysis Care&quot; Working Paper.'
+excerpt: "_Question_: Does health care spending on patients with private insurance who have kidney failure change immediately after they initiate dialysis care?
+
+_Findings_: This cohort study including 12,392 patients noted the initiation of dialysis care for privately insured patients with kidney failure was associated with significant increases in monthly spending from $5,025 to $19,654. The differences in spending between patients receiving Medicare compared with private insurance were large: patients insured by Medicare had annual mean spending of $80,509 compared with $238,126 for privately insured patients in their first year of dialysis.
+
+_Meaning_: The findings of this study suggest that initiating dialysis is associated with large increases in health care spending for patients with kidney failure who are privately insured compared with those receiving Medicare."
+date: October 2022
+venue: 'JAMA Network Open'
+citation: 'League, Riley, Paul Eliason, Ryan McDevitt, James Roberts, and Heather Wong. (2022). &quot;Assessment of Spending for Patients Initiating Dialysis Care&quot; _JAMA Netw Open_. 2022;5(10):e2239131. doi:10.1001/jamanetworkopen.2022.39131.'
 ---
 
-**Abstract:** Despite a widespread belief that private insurers spend large amounts on health care for enrollees on dialysis, data limitations have so far precluded a comprehensive analysis of the topic. We analyze claims data from a large, national sample of private employer-sponsored insurance claims of enrollees who initiate dialysis care. We limit the sample to beneficiaries continuously enrolled in the 12 months prior to their first claim for dialysis care and the 12 months after. We then compare the monthly spending overall and by type of care before and after these patients initiate dialysis, controlling for patient and plan characteristics. We find that total monthly spending increases 13,951 dollars (95 percent confidence interval, 13,708-14,195) following the average enrollee’s first dialysis treatment. This change stems from increases across all categories of spending (dialysis, non-dialysis outpatient, inpatient, physician services, and prescription drug). Monthly patient out-of-pocket spending increases 175 dollars (CI, 167-182). These spending increases occur abruptly at the initiation of dialysis, with only a small uptick in spending before beginning dialysis. When a privately insured patient initiates dialysis, their insurer experiences a significant and sustained increase in spending.
+**Key Points:**
+
+_Question_: Does health care spending on patients with private insurance who have kidney failure change immediately after they initiate dialysis care?
+
+_Findings_: This cohort study including 12,392 patients noted the initiation of dialysis care for privately insured patients with kidney failure was associated with significant increases in monthly spending from $5,025 to $19,654. The differences in spending between patients receiving Medicare compared with private insurance were large: patients insured by Medicare had annual mean spending of $80,509 compared with $238,126 for privately insured patients in their first year of dialysis.
+
+_Meaning_: The findings of this study suggest that initiating dialysis is associated with large increases in health care spending for patients with kidney failure who are privately insured compared with those receiving Medicare.
 
 ![PrivateSpendingEvent](https://rileyleague.github.io/images/spendingevent.png)
