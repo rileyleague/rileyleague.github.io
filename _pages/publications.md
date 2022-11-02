@@ -17,7 +17,7 @@ Please click [here](https://rileyleague.github.io/files/League_Riley_Research_St
 ***
 
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
-Job Market Paper [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
+Job Market Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
