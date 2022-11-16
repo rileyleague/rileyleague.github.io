@@ -10,11 +10,11 @@ citation: 'League, Riley, Paul Eliason, Ryan McDevitt, James Roberts, and Heathe
 
 **Key Points:**
 
-_Question_: Does health care spending on patients with private insurance who have kidney failure change immediately after they initiate dialysis care?
+Question: Does health care spending on patients with private insurance who have kidney failure change immediately after they initiate dialysis care?
 
-_Findings_: This cohort study including 12,392 patients noted the initiation of dialysis care for privately insured patients with kidney failure was associated with significant increases in monthly spending from $ 5,025 to $ 19,654. The differences in spending between patients receiving Medicare compared with private insurance were large: patients insured by Medicare had annual mean spending of $ 80,509 compared with $ 238,126 for privately insured patients in their first year of dialysis.
+Findings: This cohort study including 12,392 patients noted the initiation of dialysis care for privately insured patients with kidney failure was associated with significant increases in monthly spending from $5,025 to $19,654. The differences in spending between patients receiving Medicare compared with private insurance were large: patients insured by Medicare had annual mean spending of $80,509 compared with $238,126 for privately insured patients in their first year of dialysis.
 
-_Meaning_: The findings of this study suggest that initiating dialysis is associated with large increases in health care spending for patients with kidney failure who are privately insured compared with those receiving Medicare.
+Meaning: The findings of this study suggest that initiating dialysis is associated with large increases in health care spending for patients with kidney failure who are privately insured compared with those receiving Medicare.
 
 The open access article can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797907). The code used in this analysis is available [here](https://rileyleague.github.io/files/assessment_code.zip).
 
