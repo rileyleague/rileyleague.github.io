@@ -16,6 +16,6 @@ _Findings_: This cohort study including 12,392 patients noted the initiation of 
 
 _Meaning_: The findings of this study suggest that initiating dialysis is associated with large increases in health care spending for patients with kidney failure who are privately insured compared with those receiving Medicare.
 
-The open access article can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797907). The code used in this analysis is available [here](https://rileyleague.github.io/files/asessment_code.zip).
+The open access article can be found [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797907). The code used in this analysis is available [here](https://rileyleague.github.io/files/assessment_code.zip).
 
 ![PrivateSpendingEvent](https://rileyleague.github.io/images/spendingevent.png)
