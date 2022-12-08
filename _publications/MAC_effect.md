@@ -12,4 +12,6 @@ citation: 'League, Riley. (2022). &quot;Administrative Burden and Consolidation 
 
 Recent draft available [here](https://rileyleague.github.io/files/MAC_transitions.pdf).
 
+I discussed this paper on the Visible Hand podcast, which can be found [here](https://www.thevisiblehand.uk/episodes/episode-52).
+
 ![DenialTransition](https://rileyleague.github.io/images/transition_deny.png)
