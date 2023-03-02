@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Please click [here](https://rileyleague.github.io/files/League_Riley_Research_Statement.pdf) for my research statement.
-
 ## Working Papers and Works in Progress
 ***
 
