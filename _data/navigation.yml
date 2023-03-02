@@ -2,12 +2,6 @@
 main:
   - title: "Research Papers"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Conference Presentations"
-    url: /talks/    
         
   - title: "CV"
     url: /cv/
