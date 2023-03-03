@@ -2,8 +2,6 @@
 title: "The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing"
 collection: publications
 permalink: /publications/impact-of-early-life
-venue: 'Journal of Economics and Human Biology'
-citation: 'Fitz, Dylan and League, Riley (2020). The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing. <i>Economics & Human Biology</i>. 37:100843.'
 ---
 Published in <i>Economics & Human Biology</i>.<br>
 Published version available [here](https://www.sciencedirect.com/science/article/pii/S1570677X19301807). Working paper version available [here](https://rileyleague.github.io/files/measurement.pdf). BibTeX citation available [here](https://rileyleague.github.io/bibfiles/fitz2020impact.md).
