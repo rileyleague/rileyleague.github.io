@@ -74,6 +74,6 @@ Published in _Journal of Development Studies_, 2021, [Published Version](https:/
 
 ### [The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing](https://rileyleague.github.io/publications/impact-of-early-life)
 with Dylan Fitz \
-Published in _Journal of Economics & Human Biology_, 2020, [Published Version](https://www.sciencedirect.com/science/article/pii/S1570677X19301807), [Working Paper Version](https://rileyleague.github.io/files/measurement.pdf)
+Published in _Economics & Human Biology_, 2020, [Published Version](https://www.sciencedirect.com/science/article/pii/S1570677X19301807), [Working Paper Version](https://rileyleague.github.io/files/measurement.pdf)
 
 **Takeaway:** Early-life rainfall shocks can cause negative consequences into adulthood, but researchers should pay more attention to specific measurement and timing choices.
