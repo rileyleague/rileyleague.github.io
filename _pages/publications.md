@@ -21,7 +21,7 @@ Job Market Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
-### [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/effect-of-bundled-payments)
+### [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/bundledpayments.pdf)
 
