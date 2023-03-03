@@ -5,7 +5,7 @@ permalink: /publications/privateinitiate
 citation: 'League, Riley, Paul Eliason, Ryan McDevitt, James Roberts, and Heather Wong. (2022). &quot;Assessment of Spending for Patients Initiating Dialysis Care&quot; JAMA Netw Open. 2022;5(10):e2239131. doi:10.1001/jamanetworkopen.2022.39131.'
 ---
 with Paul Eliason, Ryan McDevitt, James Roberts, and Heather Wong<br>
-Published in <em>JAMA Network Open<\em>, 2022<br>
+Published in <em>JAMA Network Open</em>, 2022<br>
 Open access article available [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797907). Code used in this analysis available [here](https://rileyleague.github.io/files/assessment_code.zip). BibTeX citation available [here](https://rileyleague.github.io/bibfiles/league2022assessment.md).
 
 **Key Points:**
