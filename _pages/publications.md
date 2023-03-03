@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Below is a list of my research papers. Click on each one for more information. You can also download a BibTeX file of citation information for all of them by clicking [here](https://rileyleague.github.io/bibfiles/Leaguecites.bib)
+
 ## Working Papers and Works in Progress
 ***
 
