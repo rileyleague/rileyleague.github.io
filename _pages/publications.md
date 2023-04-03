@@ -21,11 +21,11 @@ Job Market Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
-### [The Effect of Bundled Payments on Provider Behavior and Patient Outcomes](https://rileyleague.github.io/publications/epo-elevation)
+### [Measuring Clinical Effectiveness in Practice: Evidence from EPO in Dialysis](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/bundledpayments.pdf)
 
-**Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, causing spillovers to treatments outside the bundle but better targeting doses to patients that benefit more from the drug.
+**Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events in patients and is less effective than estimates from clinical trials would suggest.
 
 ### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
 with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
@@ -39,16 +39,22 @@ Under Review, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
 
 **Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
 
-### [COVID-19 Hospitalization Rate Among Privately Insured Dialysis Patients](https://rileyleague.github.io/publications/dialcovid)
+<!--### [COVID-19 Hospitalization Rate Among Privately Insured Dialysis Patients](https://rileyleague.github.io/publications/dialcovid)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Under Review
 
 **Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
-
+-->
 ### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
 Work in Progress
 
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
+
+### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
+with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts
+Work in Progress
+
+**Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and by exerting effort to improve care quality.
 
 ## Published Papers
 ***
