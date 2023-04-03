@@ -17,7 +17,7 @@ Below is a list of my research papers. Click on each one for more information. Y
 ***
 
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
-Job Market Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
+Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
@@ -51,7 +51,7 @@ Work in Progress
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
 ### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
-with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts
+with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Work in Progress
 
 **Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and by exerting effort to improve care quality.
@@ -72,7 +72,6 @@ Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/
 **Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
 
 ### [School, Shocks, and Safety Nets: Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?](https://rileyleague.github.io/publications/school-shocks-safetynets)
-
 with Dylan Fitz \
 Published in _Journal of Development Studies_, 2021, [Published Version](https://www.tandfonline.com/doi/full/10.1080/00220388.2021.1928640?src=), [Working Paper Version](https://rileyleague.github.io/files/bolsa_schooling.pdf)
 
