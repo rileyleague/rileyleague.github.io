@@ -45,16 +45,17 @@ Under Review
 
 **Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
 -->
-### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
-Work in Progress
-
-**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
 ### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
 with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Working Paper, [Link](https://rileyleague.github.io/files/w31353.pdf)
 
 **Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and&mdash;depending on their financial incentives&mdash;by exerting effort to improve care quality.
+
+### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
+Work in Progress
+
+**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
 ## Published Papers
 ***
