@@ -52,9 +52,9 @@ Work in Progress
 
 ### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
 with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
-Work in Progress
+Working Paper, [Link](https://rileyleague.github.io/files/w31353.pdf)
 
-**Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and by exerting effort to improve care quality.
+**Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and&mdash;depending on their financial incentives&mdash;by exerting effort to improve care quality.
 
 ## Published Papers
 ***
