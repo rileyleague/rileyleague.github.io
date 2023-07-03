@@ -60,6 +60,12 @@ Work in Progress
 ## Published Papers
 ***
 
+### [Rogers’ Diffusion Theory of Innovations Applied to the Adoption of Sugammadex in a Nationwide Sample of Hospitals in the United States](https://rileyleague.github.io/publications/rogerscurve)
+with Kathryn Pearson, Michael Kent, Ryan McDevitt, Matthew Fuller, Rong Jiang, Steve Melton, Vijay Krishnamoorthy, Tetsu Ohnuma, Raquel Bartz, Juien Cobert, and Karthik Raghunathan \
+Forthcoming in _British Journal of Anaesthesia_
+
+**Takeaway:** There is a bell-shaped distribution of the timing of adoption of a new anaesthesia drug, creating opporunities for learning about the causal effect of the drug.
+
 ### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797907?widget=personalizedcontent&previousarticle=0)
