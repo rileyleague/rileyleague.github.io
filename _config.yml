@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Riley League"
 title_separator          : "-"
 name                     : &name "Riley League"
-description              : &description "Economics PhD Student at Duke University"
+description              : &description "Postdoctoral Fellow in Health and Aging Research at the National Bureau of Economic Research (NBER)"
 url                      : https://rileyleague.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rileyleague.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Riley League"
   avatar           : "headshot.jpg"
-  bio              : "Economics PhD student at Duke University interested in health economics and industrial organization"
+  bio              : "Postdoctoral Fellow in Health and Aging Research at the National Bureau of Economic Research (NBER)"
   location         : "Durham, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
