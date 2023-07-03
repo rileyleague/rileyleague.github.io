@@ -3,7 +3,7 @@ title: "Rogers' Diffusion Theory of Innovations Applied to the Adoption of Sugam
 collection: publications
 permalink: /publications/rogerscurve
 ---
-with Kathryn Pearson, Michael Kent, Ryan McDevitt, Matthew Fuller, Rong Jiang, Steve Melton, Vijay Krishnamoorthy, Tetsu Ohnuma, Raquel Bartz, Juien Cobert, and Karthik Raghunathan<br>
+with Kathryn Pearson, Michael Kent, Ryan McDevitt, Matthew Fuller, Rong Jiang, Steve Melton, Vijay Krishnamoorthy, Tetsu Ohnuma, Raquel Bartz, Julien Cobert, and Karthik Raghunathan<br>
 Forthcoming in <em>British Journal of Anaesthesia</em><br>
 <!-- Open access article available [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455). Code used in this analysis available [here](https://rileyleague.github.io/files/variability_code.zip). -->
 BibTeX citation available [here](https://rileyleague.github.io/bibfiles/pearson2023rogers.md).<br>
