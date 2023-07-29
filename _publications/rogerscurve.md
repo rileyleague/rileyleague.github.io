@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/rogerscurve
 ---
 with Kathryn Pearson, Michael Kent, Ryan McDevitt, Matthew Fuller, Rong Jiang, Steve Melton, Vijay Krishnamoorthy, Tetsu Ohnuma, Raquel Bartz, Julien Cobert, and Karthik Raghunathan<br>
-Published in <em>British Journal of Anaesthesia</em><br>, 2023
+Published in <em>British Journal of Anaesthesia</em>, 2023<br>
 Article available [here](https://www.sciencedirect.com/science/article/pii/S0007091223003665).
 BibTeX citation available [here](https://rileyleague.github.io/bibfiles/pearson2023rogers.md).<br>
 
