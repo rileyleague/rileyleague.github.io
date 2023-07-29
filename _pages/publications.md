@@ -62,7 +62,7 @@ Work in Progress
 
 ### [Rogers’ Diffusion Theory of Innovations Applied to the Adoption of Sugammadex in a Nationwide Sample of Hospitals in the United States](https://rileyleague.github.io/publications/rogerscurve)
 with Kathryn Pearson, Michael Kent, Ryan McDevitt, Matthew Fuller, Rong Jiang, Steve Melton, Vijay Krishnamoorthy, Tetsu Ohnuma, Raquel Bartz, Julien Cobert, and Karthik Raghunathan \
-Forthcoming in _British Journal of Anaesthesia_
+Published in _British Journal of Anaesthesia_, 2023, [Link](https://www.sciencedirect.com/science/article/pii/S0007091223003665)
 
 **Takeaway:** There is a bell-shaped distribution of the timing of adoption of a new anaesthesia drug, creating opporunities for learning about the causal effect of the drug.
 
