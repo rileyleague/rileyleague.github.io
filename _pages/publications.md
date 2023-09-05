@@ -49,7 +49,7 @@ Work in Progress
 
 ### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
 with Dylan Fitz \
-Forthcoming in _Journal of Development Studies_, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
+Published in _Journal of Development Studies_, 2023, [Published Version](https://www.tandfonline.com/doi/full/10.1080/00220388.2023.2250131), [Working Paper Version](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
 
 **Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
 
