@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/catchup
 ---
 with Dylan Fitz<br>
-Published in <i>Journal of Development Studies<i>, 2023<br>
+Published in <i>Journal of Development Studies</i>, 2023 <br>
 Published version available [here](https://www.tandfonline.com/doi/full/10.1080/00220388.2023.2250131). Accepted version available [here](http://rileyleague.github.io/files/catchup_leaguefitz.pdf). BibTeX citation available [here](http://rileyleague.github.io/bibfiles/league2023early.md).<br>
 A replication package is available [here](https://www.dropbox.com/scl/fi/4m0jf1stlyys4hps7svc3/catchup_code.zip?rlkey=ua4cxybk6wx6fuc8grb9t9a80&dl=0). The replication package relies on data provided by Brazil's Ministério do Desenvolvimento Social e Combate a Fome and publicly available data found [here](https://www.dropbox.com/s/ujak7evtavphnv8/MunicipalRainfall.zip?dl=0).
 
