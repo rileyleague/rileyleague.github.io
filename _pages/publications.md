@@ -19,7 +19,7 @@ Below is a list of my research papers. Click on each one for more information. Y
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
-**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
+**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more effectively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
 ### [Measuring Clinical Effectiveness in Practice: Evidence from EPO in Dialysis](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
