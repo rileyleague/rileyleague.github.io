@@ -16,6 +16,12 @@ Below is a list of my research papers. Click on each one for more information. Y
 ## Working Papers and Works in Progress
 ***
 
+### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
+with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
+Accepted at _Journal of Political Economy_, [Link](https://rileyleague.github.io/files/w29491.pdf)
+
+**Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
+
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
@@ -27,17 +33,17 @@ Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.gith
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events in patients and is less effective than estimates from clinical trials would suggest.
 
-### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
-with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Revise & Resubmit at _Journal of Political Economy_, [Link](https://rileyleague.github.io/files/w29491.pdf)
-
-**Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
-
 ### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
 with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Working Paper, [Link](https://rileyleague.github.io/files/w31353.pdf)
 
 **Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and&mdash;depending on their financial incentives&mdash;by exerting effort to improve care quality.
+
+### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
+with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Under Review
+
+**Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
 
 ### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
 Work in Progress, Contact for Draft
