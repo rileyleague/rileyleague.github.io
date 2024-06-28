@@ -85,7 +85,7 @@ author:
   name             : "Riley League"
   avatar           : "headshot.jpg"
   bio              : "Assistant Professor of Finance at the University of Illinois Urbana-Champaign"
-  location         : "Cambridge, MA"
+  location         : "Champaign, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ksQ9hTYAAAAJ&hl=en"
@@ -178,16 +178,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
