@@ -27,11 +27,11 @@ Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more effectively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
-### [Measuring Clinical Effectiveness in Practice: Evidence from EPO in Dialysis](https://rileyleague.github.io/publications/epo-elevation)
+### [Patient Heterogeneity and Treatment Choices: Evidence from the Dialysis Industry](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
-Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/bundledpayments.pdf)
+Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/EPOelevation.pdf)
 
-**Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events in patients and is less effective than estimates from clinical trials would suggest.
+**Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events and has widely heterogeneous effects on patient health.
 
 ### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
 with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
