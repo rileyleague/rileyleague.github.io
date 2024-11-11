@@ -22,16 +22,16 @@ Accepted at _Journal of Political Economy_, [Link](https://rileyleague.github.io
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
 
-### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
-Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
-
-**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more effectively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
-
 ### [Patient Heterogeneity and Treatment Choices: Evidence from the Dialysis Industry](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/EPOelevation.pdf)
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events and has widely heterogeneous effects on patient health.
+
+### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
+Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
+
+**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more effectively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
 ### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
 with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
@@ -49,6 +49,18 @@ Under Review
 Work in Progress, Contact for Draft
 
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
+
+### [Equity  Crowdfunding "Rules": Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment](https://rileyleague.github.io/publications/FormC_AR)
+with Greg Burke
+Work in Progress, Contact for Draft
+
+**Takeaway:** Compliance with ongoing reporting requirements in the ECF market is very low, but a randomized intervention warning issuers about possible regulatory risk raised compliance.
+
+### [The Cost of Financial Disclosure for Start-Up Firms: An Examination of Regulation Crowdfunding Offering Closures](https://rileyleague.github.io/publications/FormC_A)
+with Greg Burke
+Work in Progress, Contact for Draft
+
+**Takeaway:** Most entrepreneurs are willing to close their Regulation Crowdfunding offerings at least two months early to avoid filing updated financial statements with the SEC. 
 
 ## Published Papers
 ***
