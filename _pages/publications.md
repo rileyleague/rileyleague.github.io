@@ -51,13 +51,13 @@ Work in Progress, Contact for Draft
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
 ### [Equity  Crowdfunding "Rules": Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment](https://rileyleague.github.io/publications/FormC_AR)
-with Greg Burke
+with Greg Burke \
 Work in Progress, Contact for Draft
 
 **Takeaway:** Compliance with ongoing reporting requirements in the ECF market is very low, but a randomized intervention warning issuers about possible regulatory risk raised compliance.
 
 ### [The Cost of Financial Disclosure for Start-Up Firms: An Examination of Regulation Crowdfunding Offering Closures](https://rileyleague.github.io/publications/FormC_A)
-with Greg Burke
+with Greg Burke \
 Work in Progress, Contact for Draft
 
 **Takeaway:** Most entrepreneurs are willing to close their Regulation Crowdfunding offerings at least two months early to avoid filing updated financial statements with the SEC. 
