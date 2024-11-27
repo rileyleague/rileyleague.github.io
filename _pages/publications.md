@@ -18,7 +18,7 @@ Below is a list of my research papers. Click on each one for more information. Y
 
 ### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
 with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Accepted at _Journal of Political Economy_, [Link](https://rileyleague.github.io/files/w29491.pdf)
+Accepted at _Journal of Political Economy_, [Accepted Version](https://www.journals.uchicago.edu/doi/abs/10.1086/734134) [Working Paper Version](https://rileyleague.github.io/files/w29491.pdf)
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
 
