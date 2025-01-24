@@ -1,7 +1,7 @@
 ---
 title: "Competition and Fraud in Healthcare"
 collection: publications
-permalink: /publications/ambulancefraud
+permalink: /publications/DMEfraud
 ---
 with Renuka Diwan, Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts<br>
 Work in Progress<br>
