@@ -50,6 +50,12 @@ Work in Progress, Contact for Draft
 
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
+### [Competition and Fraud in Health Care](https://rileyleague.github.io/publications/DMEfraud)
+with Renuka Diwan, Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
+Work in Progress, Contact for Draft
+
+**Takeaway:** Increased competition favors fraudulent firms over legitimate ones in the durable medical equipment market.
+
 ### [Equity  Crowdfunding "Rules": Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment](https://rileyleague.github.io/publications/FormC_AR)
 with Greg Burke \
 Work in Progress, Contact for Draft
