@@ -12,7 +12,7 @@ This page contains various things I've put together that others may find useful.
 ## Data
 ***
 
-[This](https://github.com/rileyleague/rileyleague.github.io/blob/master/files/Health%20Data%20Guide%20for%20NBER%20Mentoring%20Session%20-%20May%202024.docx) is a guide Mark Shepard and I put together on commonly used data sources for health economics research.
+[This](https://rileyleague.github.io/files/Health%20Data%20Guide%20for%20NBER%20Mentoring%20Session%20-%20May%202024.docx) is a guide Mark Shepard and I put together on commonly used data sources for health economics research.
 
 [This](https://rileyleague.github.io/files/MAC_jurisdiction_Xwalk.dta) is a crosswalk between Medicare Part B contractors and the areas they processed claims for from 1999--2017.
 
