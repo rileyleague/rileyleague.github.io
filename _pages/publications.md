@@ -30,7 +30,7 @@ Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.gith
 
 ### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
 with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Revise & Resubmit at _JAMA: Health Forum_
+Revise & Resubmit at _JAMA Health Forum_
 
 **Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
 
