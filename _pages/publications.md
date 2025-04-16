@@ -28,6 +28,12 @@ Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.gith
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events and has widely heterogeneous effects on patient health.
 
+### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
+with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Revise & Resubmit at _JAMA: Health Forum_
+
+**Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
+
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
@@ -38,12 +44,6 @@ with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Working Paper, [Link](https://rileyleague.github.io/files/w31353.pdf)
 
 **Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and&mdash;depending on their financial incentives&mdash;by exerting effort to improve care quality.
-
-### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
-with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Under Review
-
-**Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
 
 ### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
 Work in Progress, Contact for Draft
