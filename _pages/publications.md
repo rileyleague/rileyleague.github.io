@@ -16,12 +16,6 @@ Below is a list of my research papers. Click on each one for more information. Y
 ## Working Papers and Works in Progress
 ***
 
-### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
-with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Forthcoming at _Journal of Political Economy_, [Published Version](https://rileyleague.github.io/files/Ambulance_Taxis_JPE.pdf), [Working Paper Version](https://rileyleague.github.io/files/w29491.pdf)
-
-**Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
-
 ### [Patient Heterogeneity and Treatment Choices: Evidence from the Dialysis Industry](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/EPOelevation.pdf)
@@ -76,6 +70,12 @@ Work in Progress, Contact for Draft
 
 ## Published Papers
 ***
+
+### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
+with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
+Published _Journal of Political Economy_, 2025, [Published Version](https://rileyleague.github.io/files/Ambulance_Taxis_JPE.pdf), [Working Paper Version](https://rileyleague.github.io/files/w29491.pdf)
+
+**Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
 
 ### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
 with Dylan Fitz \
