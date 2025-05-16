@@ -16,17 +16,17 @@ Below is a list of my research papers. Click on each one for more information. Y
 ## Working Papers and Works in Progress
 ***
 
+### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
+with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Accepted at _JAMA Health Forum_
+
+**Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
+
 ### [Patient Heterogeneity and Treatment Choices: Evidence from the Dialysis Industry](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/EPOelevation.pdf)
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events and has widely heterogeneous effects on patient health.
-
-### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
-with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Revise & Resubmit at _JAMA Health Forum_
-
-**Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
 
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
