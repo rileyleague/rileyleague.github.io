@@ -15,6 +15,6 @@ _Findings_: This cohort study including 12,392 patients noted the initiation of 
 
 _Meaning_: The findings of this study suggest that initiating dialysis is associated with large increases in health care spending for patients with kidney failure who are privately insured compared with those receiving Medicare.
 
-I was interviewed about this project by Fierce Healthcare, for an article that can be found [here](https://www.fiercehealthcare.com/payers/238216-80509-157707-thats-how-much-more-commercial-insurers-pay-1st-year-dialysis-medicare).
+I was interviewed about this project by Fierce Healthcare for an article that can be found [here](https://www.fiercehealthcare.com/payers/238216-80509-157707-thats-how-much-more-commercial-insurers-pay-1st-year-dialysis-medicare).
 
 ![PrivateSpendingEvent](https://rileyleague.github.io/images/spendingevent.png)
