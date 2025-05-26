@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Riley League"
 description              : &description "Assistant Professor of Finance at the University of Illinois Urbana-Champaign"
 url                      : https://rileyleague.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://rileyleague.com" # the subpath of your site, e.g. "/blog"
 repository               : "rileyleague.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
