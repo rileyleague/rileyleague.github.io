@@ -35,7 +35,7 @@ Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
 ### [Administrative Fragmentation in Health Care](https://rileyleague.github.io/publications/AdminFragmentation)
 with Maggie Shi \
-Working Paper, [Link](https://rileyleague.github.io/files/FI_Transition.pdf)
+Working Paper, [Link](https://rileyleague.github.io/files/w33863.pdf)
 
 **Takeaway:** A large reduction in administrative fragmentation in Medicare led to no change in administrative costs or care utilization.
 
