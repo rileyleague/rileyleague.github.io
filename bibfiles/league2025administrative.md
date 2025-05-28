@@ -2,5 +2,5 @@
     title={Administrative Fragmentation in Health Care},
     author={League, Riley and Shi, Maggie},
     year={2025},
-    journal={Work in Progress}
+    institution={National Bureau of Economic Research}
 }
