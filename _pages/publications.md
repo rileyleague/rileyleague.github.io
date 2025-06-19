@@ -16,12 +16,6 @@ Below is a list of my research papers. Click on each one for more information. Y
 ## Working Papers and Works in Progress
 ***
 
-### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
-with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Accepted at _JAMA Health Forum_
-
-**Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
-
 ### [Patient Heterogeneity and Treatment Choices: Evidence from the Dialysis Industry](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
 Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/EPOelevation.pdf)
@@ -73,9 +67,15 @@ Work in Progress, Contact for Draft
 
 ### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
 with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Published _Journal of Political Economy_, 2025, [Published Version](https://rileyleague.github.io/files/Ambulance_Taxis_JPE.pdf), [Working Paper Version](https://rileyleague.github.io/files/w29491.pdf)
+Published in _Journal of Political Economy_, 2025, [Published Version](https://rileyleague.github.io/files/Ambulance_Taxis_JPE.pdf), [Working Paper Version](https://rileyleague.github.io/files/w29491.pdf)
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
+
+### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
+with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
+Published in _JAMA Health Forum_, 2025, [Link](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835489)
+
+**Takeaway:** The US dialysis industry has experienced a high degree of both vertical and horizontal consolidation, with monopoly markets having much higher prices for dialysis services and compensation for medical directors.
 
 ### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
 with Dylan Fitz \
