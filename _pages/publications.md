@@ -71,7 +71,7 @@ Published in _Journal of Political Economy_, 2025, [Published Version](https://r
 
 **Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
 
-### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in the US Dialysis Industry: 2005 -- 2019](https://rileyleague.github.io/publications/2d)
+### [Financial Ties, Market Structure, Commercial Prices, and Medical Director Compensation in Dialysis](https://rileyleague.github.io/publications/2d)
 with Xuyang Xia, Wanrong Deng, Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
 Published in _JAMA Health Forum_, 2025, [Link](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2835489)
 
