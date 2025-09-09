@@ -39,6 +39,12 @@ Working Paper, [Link](https://rileyleague.github.io/files/w31353.pdf)
 
 **Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and&mdash;depending on their financial incentives&mdash;by exerting effort to improve care quality.
 
+### [Equity  Crowdfunding "Rules": Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment](https://rileyleague.github.io/publications/FormC_AR)
+with Greg Burke \
+Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
+
+**Takeaway:** Compliance with ongoing reporting requirements in the ECF market is very low, but a randomized intervention warning issuers about possible regulatory risk raised compliance.
+
 ### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
 Work in Progress, Contact for Draft
 
@@ -49,12 +55,6 @@ with Renuka Diwan, Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Rob
 Work in Progress, Contact for Draft
 
 **Takeaway:** Increased competition favors fraudulent firms over legitimate ones in the durable medical equipment market.
-
-### [Equity  Crowdfunding "Rules": Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment](https://rileyleague.github.io/publications/FormC_AR)
-with Greg Burke \
-Work in Progress, Contact for Draft
-
-**Takeaway:** Compliance with ongoing reporting requirements in the ECF market is very low, but a randomized intervention warning issuers about possible regulatory risk raised compliance.
 
 ### [The Cost of Financial Disclosure for Start-Up Firms: An Examination of Regulation Crowdfunding Offering Closures](https://rileyleague.github.io/publications/FormC_A)
 with Greg Burke \
