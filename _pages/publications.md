@@ -27,6 +27,11 @@ Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more effectively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
 
+### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
+Working Paper, [Link](https://rileyleague.com/files/procedure_diffusion.pdf)
+
+**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
+
 ### [Administrative Fragmentation in Health Care](https://rileyleague.github.io/publications/AdminFragmentation)
 with Maggie Shi \
 Working Paper, [Link](https://rileyleague.github.io/files/w33863.pdf)
@@ -44,11 +49,6 @@ with Greg Burke \
 Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
 
 **Takeaway:** Compliance with ongoing reporting requirements in the ECF market is very low, but a randomized intervention warning issuers about possible regulatory risk raised compliance.
-
-### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
-Work in Progress, Contact for Draft
-
-**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
 
 ### [Competition and Fraud in Health Care](https://rileyleague.github.io/publications/DMEfraud)
 with Renuka Diwan, Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
