@@ -52,7 +52,7 @@ Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
 
 ### [Competition and Fraud in Health Care](https://rileyleague.github.io/publications/DMEfraud)
 with Renuka Diwan, Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Work in Progress, Contact for Draft
+Working Paper, [Link](https://rileyleague.github.io/files/DME_Fraud.pdf)
 
 **Takeaway:** Increased competition favors fraudulent firms over legitimate ones in the durable medical equipment market.
 
@@ -64,6 +64,12 @@ Work in Progress, Contact for Draft
 
 ## Published Papers
 ***
+
+### [The Fiscal Impact of the Medicare Secondary Payer Act for End-Stage Renal Disease](https://rileyleague.github.io/publications/MSPA)
+with Ryan McDevitt \
+Published in _Journal of the American Society of Nephrology_, 2026, [Link](https://journals.lww.com/jasn/abstract/9900/the_fiscal_impact_of_the_medicare_secondary_payer.919.aspx)
+
+**Takeaway:** Accounting for foregone tax revenue, Medicare being the secondary payer for dialysis services saves the government very little money.
 
 ### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
 with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
