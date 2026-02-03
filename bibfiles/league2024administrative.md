@@ -1,6 +1,6 @@
-@techreport{league2023administrative,
+@techreport{league2024administrative,
   title={Administrative Burden and Consolidation in Health Care: Evidence from {M}edicare Contractor Transitions},
    author={League, Riley J},
-   year={2023},
+   year={2024},
    journal={Working Paper}
 }
