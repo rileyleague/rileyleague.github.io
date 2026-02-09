@@ -46,7 +46,7 @@ Working Paper, [Link](https://rileyleague.github.io/files/w31353.pdf)
 
 ### [Competition and Fraud in Health Care](https://rileyleague.github.io/publications/DMEfraud)
 with Renuka Diwan, Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Working Paper, [Link](https://rileyleague.github.io/files/DME_Fraud.pdf)
+Working Paper, [Link](https://rileyleague.github.io/files/w34802.pdf)
 
 **Takeaway:** Increased competition favors fraudulent firms over legitimate ones in the durable medical equipment market.
 
