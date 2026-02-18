@@ -22,6 +22,12 @@ Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.gith
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events and has widely heterogeneous effects on patient health.
 
+### [Administrative Fragmentation in Health Care](https://rileyleague.github.io/publications/AdminFragmentation)
+with Maggie Shi \
+Revise & Resubmit at _Journal of Public Economics_, [Link](https://rileyleague.github.io/files/w33863.pdf)
+
+**Takeaway:** A large reduction in administrative fragmentation in Medicare led to no change in administrative costs or care utilization.
+
 ### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
@@ -31,12 +37,6 @@ Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 Working Paper, [Link](https://rileyleague.com/files/procedure_diffusion.pdf)
 
 **Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
-
-### [Administrative Fragmentation in Health Care](https://rileyleague.github.io/publications/AdminFragmentation)
-with Maggie Shi \
-Working Paper, [Link](https://rileyleague.github.io/files/w33863.pdf)
-
-**Takeaway:** A large reduction in administrative fragmentation in Medicare led to no change in administrative costs or care utilization.
 
 ### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
 with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
