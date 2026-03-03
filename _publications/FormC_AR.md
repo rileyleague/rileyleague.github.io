@@ -1,13 +1,13 @@
 ---
-title: "Equity  Crowdfunding 'Rules': Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment"
+title: "Compliance with Ongoing Financial Reporting Mandates: Field Experimental Evidence on the Decision to Issue an Annual Report"
 collection: publications
 permalink: /publications/FormC_AR
 ---
 with Greg Burke<br>
 Working Paper<br>
-SSRN working paper available [here](https://rileyleague.github.io/files/ssrn-5463161.pdf). BibTeX citation available [here](https://rileyleague.github.io/bibfiles/burke2025rules.md).
+SSRN working paper available [here](https://rileyleague.github.io/files/ssrn-5463161.pdf). BibTeX citation available [here](https://rileyleague.github.io/bibfiles/burke2026compliance.md). This paper previously circulated as ``Equity Crowdfunding `Rules': Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment."
 
-**Abstract:** Using the regulated, but largely unenforced setting of U.S. equity crowdfunding (ECF) we consider why managers comply with ongoing financial reporting regulations beyond enforcement and litigation risk. In a market with billions of dollars invested by millions of investors, over half of ECF issuers fail to file their mandated annual report, with only a third issuing timely. Using rich offering-level data, we show compliance is negatively associated with compliance costs and tardy filings are partially explained by the desire to issue additional securities. However, despite our rich data, the overall explanatory power of predicting financial reporting compliance is low using observational data. Using a randomized intervention, we show compliance increases from messages emphasizing the regulatory risk of non-compliance, but not those emphasizing the potential economic benefits of compliance. Further, we show, despite low compliance, investors demand annual report information via EDGAR log data. This paper provides the first evidence on ongoing reporting behaviors of ECF issuers and insights into reasons managers comply with financial reporting mandates more broadly.
+**Abstract:** Using the Regulation Crowdfunding market, we examine why managers comply with ongoing financial reporting mandates. While incentives motivating compliance are often masked by high regulatory risk, in our setting enforcement is historically absent. We show that despite manager awareness of reporting obligations and investor demand for financial reports, over half of managers fail to file their annual report, with only a third filing timely. Using rich offering-level data, we find compliance is associated with external monitoring, potential economic benefits, and low compliance costs, though the predictive power of these factors is low. Exploiting a field experiment, we show that compliance increases by 20 percent in response to messages emphasizing the regulatory risk of non-compliance but find no detectable effect to messages emphasizing economic benefits. Our results provide insights into why managers comply with financial reporting mandates, informing the design of an effective, and potentially more efficient, regulatory regime.
 
 I discussed this paper on the [Business Scholarship Podcast](https://podcasts.apple.com/us/podcast/gregory-burke-and-riley-league-on-crowdfunding-compliance/id1470002641?i=1000739074455).
 
