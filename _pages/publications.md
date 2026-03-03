@@ -50,7 +50,7 @@ Working Paper, [Link](https://rileyleague.github.io/files/w34802.pdf)
 
 **Takeaway:** Increased competition favors fraudulent firms over legitimate ones in the durable medical equipment market.
 
-### [Equity  Crowdfunding "Rules": Compliance with Mandated Ongoing Financial Reporting in an Unenforced Environment](https://rileyleague.github.io/publications/FormC_AR)
+### [Compliance with Ongoing Financial Reporting Mandates: Field Experimental Evidence on the Decision to Issue an Annual Report](https://rileyleague.github.io/publications/FormC_AR)
 with Greg Burke \
 Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
 
