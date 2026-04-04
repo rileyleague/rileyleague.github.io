@@ -65,6 +65,12 @@ Work in Progress, Contact for Draft
 ## Published Papers
 ***
 
+### [Shifting Barriers to Health Care Access: From Affordability to Coverage Issues](https://rileyleague.github.io/publications/ShiftingBarriers)
+with Mohammad Mahmoudi Meymand \
+Published in _BMC Health Services Research_, 2026, [Link](https://link.springer.com/article/10.1186/s12913-026-14376-7)
+
+**Takeaway:** Difficulty accessing care because of insurer coverage issues became more common after ACA implementation, offsetting decreases in inability to afford care while shifting barriers from lower- to higher-income Americans.
+
 ### [The Fiscal Impact of the Medicare Secondary Payer Act for End-Stage Renal Disease](https://rileyleague.github.io/publications/MSPA)
 with Ryan McDevitt \
 Published in _Journal of the American Society of Nephrology_, 2026, [Link](https://journals.lww.com/jasn/abstract/9900/the_fiscal_impact_of_the_medicare_secondary_payer.919.aspx)
