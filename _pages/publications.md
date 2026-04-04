@@ -99,7 +99,7 @@ Published in _Journal of Development Studies_, 2023, [Published Version](https:/
 with Kathryn Pearson, Michael Kent, Ryan McDevitt, Matthew Fuller, Rong Jiang, Steve Melton, Vijay Krishnamoorthy, Tetsu Ohnuma, Raquel Bartz, Julien Cobert, and Karthik Raghunathan \
 Published in _British Journal of Anaesthesia_, 2023, [Link](https://www.sciencedirect.com/science/article/pii/S0007091223003665)
 
-**Takeaway:** There is a bell-shaped distribution of the timing of adoption of a new anaesthesia drug, creating opporunities for learning about the causal effect of the drug.
+**Takeaway:** There is a bell-shaped distribution of the timing of adoption of a new anaesthesia drug, creating opportunities for learning about the causal effect of the drug.
 
 ### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
 with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
