@@ -1,5 +1,6 @@
 ---
 title: "School, Shocks, and Safety Nets:  Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?"
+layout: single
 collection: publications
 permalink: /publications/school-shocks-safetynets
 ---
