@@ -1,5 +1,6 @@
 ---
 title: "Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019"
+layout: single
 collection: publications
 permalink: /publications/privateprices
 ---
