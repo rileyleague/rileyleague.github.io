@@ -1,5 +1,6 @@
 ---
 title: "Patient Heterogeneity and Treatment Choices: Evidence from the Dialysis Industry"
+layout: single
 collection: publications
 permalink: /publications/epo-elevation
 ---
