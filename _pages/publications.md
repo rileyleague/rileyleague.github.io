@@ -66,6 +66,12 @@ Work in Progress, Contact for Draft
 ***
 
 ### [Shifting Barriers to Health Care Access: From Affordability to Coverage Issues](https://rileyleague.github.io/publications/ShiftingBarriers)
+with Sungil Kim, Mark Naslund, Xingzhi Wang, Abid Hasan, Hongbin Huang, Hyong-gu Hwang, Ambar La Forgia, Ryan McDevitt, and Kelly Kaili Yang \
+Published in _Health Affairs Scholar_, 2026, [Link](https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag071/8626085)
+
+**Takeaway:** Existing databases of private equity acquisitions of hospitals are expensive and incomplete, so we made a free, public one.
+
+### [Shifting Barriers to Health Care Access: From Affordability to Coverage Issues](https://rileyleague.github.io/publications/ShiftingBarriers)
 with Mohammad Mahmoudi Meymand \
 Published in _BMC Health Services Research_, 2026, [Link](https://link.springer.com/article/10.1186/s12913-026-14376-7)
 
