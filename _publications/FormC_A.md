@@ -1,5 +1,6 @@
 ---
 title: "The Cost of Financial Disclosure for Start-Up Firms: An Examination of Regulation Crowdfunding Offering Closures"
+layout: single
 collection: publications
 permalink: /publications/FormC_A
 ---
