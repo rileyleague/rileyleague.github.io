@@ -1,5 +1,6 @@
 ---
 title: "Rogers' Diffusion Theory of Innovations Applied to the Adoption of Sugammadex in a Nationwide Sample of Hospitals in the United States"
+layout: single
 collection: publications
 permalink: /publications/rogerscurve
 ---
