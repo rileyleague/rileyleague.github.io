@@ -1,5 +1,6 @@
 ---
 title: "The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing"
+layout: single
 collection: publications
 permalink: /publications/impact-of-early-life
 ---
