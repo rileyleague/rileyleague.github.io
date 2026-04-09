@@ -1,5 +1,6 @@
 ---
 title: "The Fiscal Impact of the Medicare Secondary Payer Act for End-Stage Renal Disease"
+layout: single
 collection: publications
 permalink: /publications/MSPA
 ---
