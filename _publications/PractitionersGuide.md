@@ -2,7 +2,7 @@
 title: "A Practitioner’s Guide to Using Data on Private Equity Hospital Acquisitions "
 layout: single
 collection: publications
-permalink: /publications/practitioners
+permalink: /publications/PractitionersGuide
 ---
 With Sungil Kim, Mark Naslund, Xingzhi Wang, Abid Hasan, Hongbin Huang, Hyong-gu Hwang, Ambar La Forgia, Ryan McDevitt, and Kelly Kaili Yang<br>
 Published in _Health Affairs Scholar_, 2026 <br>
