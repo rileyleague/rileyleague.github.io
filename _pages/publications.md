@@ -65,7 +65,7 @@ Work in Progress, Contact for Draft
 ## Published Papers
 ***
 
-### [Shifting Barriers to Health Care Access: From Affordability to Coverage Issues](https://rileyleague.github.io/publications/ShiftingBarriers)
+### [A Practitioner’s Guide to Using Data on Private Equity Hospital Acquisitions](https://rileyleague.github.io/publications/PractitionersGuide)
 with Sungil Kim, Mark Naslund, Xingzhi Wang, Abid Hasan, Hongbin Huang, Hyong-gu Hwang, Ambar La Forgia, Ryan McDevitt, and Kelly Kaili Yang \
 Published in _Health Affairs Scholar_, 2026, [Link](https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag071/8626085)
 
