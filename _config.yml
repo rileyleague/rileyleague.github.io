@@ -203,7 +203,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: pubpage
     values:
       layout: publication_layout
       author_profile: true
