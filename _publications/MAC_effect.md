@@ -1,5 +1,6 @@
 ---
 title: "Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions"
+layout: single
 collection: publications
 permalink: /publications/MAC_effect
 ---
