@@ -1,5 +1,6 @@
 ---
 title: "Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care"
+layout: single
 collection: publications
 permalink: /publications/privateinitiate
 ---
