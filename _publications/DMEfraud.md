@@ -1,5 +1,6 @@
 ---
 title: "Competition and Fraud in Health Care"
+layout: single
 collection: publications
 permalink: /publications/DMEfraud
 ---
