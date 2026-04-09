@@ -1,5 +1,6 @@
 ---
 title: "Shifting Barriers to Health Care Access: From Affordability to Coverage Issues"
+layout: single
 collection: publications
 permalink: /publications/ShiftingBarriers
 ---
