@@ -1,5 +1,6 @@
 ---
 title: "Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud"
+layout: single
 collection: publications
 permalink: /publications/ambulancefraud
 ---
