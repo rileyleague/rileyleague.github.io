@@ -14,6 +14,8 @@ This page contains various things I've put together that others may find useful.
 
 [This](https://rileyleague.github.io/files/Health%20Data%20Guide%20for%20NBER%20Mentoring%20Session%20-%20May%202024.docx) is a guide Mark Shepard and I put together on commonly used data sources for health economics research.
 
+[This](https://github.com/sungilkim94/Kim-PE-Data) is a comprehensive list of PE acquisitions of short-term acute care hospitals from 2000--2024. See our [practitioner's guide](https://rileyleague.com/publications/practitioners) for more details.
+
 [This](https://rileyleague.github.io/files/MAC_jurisdiction_Xwalk.dta) is a crosswalk between Medicare Part B contractors and the areas they processed claims for from 1999--2017.
 
 [This](https://rileyleague.github.io/files/zip_to_juri_Xwalk.dta) is a crosswalk between ZIP codes and sub-state Medicare contract areas.
