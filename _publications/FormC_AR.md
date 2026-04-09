@@ -1,5 +1,6 @@
 ---
 title: "Compliance with Ongoing Financial Reporting Mandates: Field Experimental Evidence on the Decision to Issue an Annual Report"
+layout: single
 collection: publications
 permalink: /publications/FormC_AR
 ---
