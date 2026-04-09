@@ -1,5 +1,6 @@
 ---
 title: "Administrative Fragmentation in Health Care"
+layout: single
 collection: publications
 permalink: /publications/AdminFragmentation
 ---
