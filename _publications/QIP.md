@@ -1,5 +1,6 @@
 ---
 title: "Gaming and Effort in Performance Pay"
+layout: single
 collection: publications
 permalink: /publications/QIP
 ---
