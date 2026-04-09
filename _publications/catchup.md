@@ -1,5 +1,6 @@
 ---
 title: "Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil"
+layout: single
 collection: publications
 permalink: /publications/catchup
 ---
