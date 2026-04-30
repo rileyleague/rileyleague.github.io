@@ -28,7 +28,7 @@ Revise & Resubmit at _Journal of Public Economics_, [Link](https://rileyleague.g
 
 **Takeaway:** A large reduction in administrative fragmentation in Medicare led to no change in administrative costs or care utilization.
 
-### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
+### [The Effects of Administrative Burden in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
 Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
 
 **Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more effectively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
