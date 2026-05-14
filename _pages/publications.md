@@ -56,11 +56,11 @@ Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
 
 **Takeaway:** Compliance with ongoing reporting requirements in the ECF market is very low, but a randomized intervention warning issuers about possible regulatory risk raised compliance.
 
-### [The Cost of Financial Disclosure for Start-Up Firms: An Examination of Regulation Crowdfunding Offering Closures](https://rileyleague.github.io/publications/FormC_A)
+### [The Cost of Financial Disclosure for Start-Up Firms](https://rileyleague.github.io/publications/FormC_A)
 with Greg Burke \
 Work in Progress, Contact for Draft
 
-**Takeaway:** Most entrepreneurs are willing to close their Regulation Crowdfunding offerings at least two months early to avoid filing updated financial statements with the SEC. 
+**Takeaway:** Most entrepreneurs are willing to close their Regulation Crowdfunding offerings at least six weeks early to avoid filing updated financial statements with the SEC. 
 
 ## Published Papers
 ***
