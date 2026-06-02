@@ -50,6 +50,12 @@ Working Paper, [Link](https://rileyleague.github.io/files/w34802.pdf)
 
 **Takeaway:** Increased competition favors fraudulent firms over legitimate ones in the durable medical equipment market.
 
+### [Avoiding Regulation: Evidence from Nursing Homes](https://rileyleague.github.io/publications/bunching_beds)
+with Alden Cheng \
+Working Paper, [Link](https://rileyleague.github.io/files/bunching_beds.pdf)
+
+**Takeaway:** A California nursing home staffing requirement causes facilities to shrink to avoid the regulation, reducing patient access without increasing staffing.
+
 ### [Compliance with Ongoing Financial Reporting Mandates: Field Experimental Evidence on the Decision to Issue an Annual Report](https://rileyleague.github.io/publications/FormC_AR)
 with Greg Burke \
 Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
