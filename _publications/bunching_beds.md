@@ -4,6 +4,7 @@ layout: single
 collection: publications
 permalink: /publications/bunching_beds
 ---
+with Alden Cheng<br>
 Working Paper<br>
 Recent draft available [here](https://rileyleague.github.io/files/bunching_beds.pdf). BibTeX citation available [here](https://rileyleague.github.io/bibfiles/cheng2026avoiding.md).
 
