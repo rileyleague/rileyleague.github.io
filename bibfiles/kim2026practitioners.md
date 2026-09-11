@@ -8,5 +8,5 @@
     issn = {2976-5390},
     doi = {10.1093/haschl/qxag071},
     url = {https://doi.org/10.1093/haschl/qxag071},
-    eprint = {https://academic.oup.com/healthaffairsscholar/advance-article-pdf/doi/10.1093/haschl/qxag071/67932035/qxag071.pdf},
+    eprint = {https://academic.oup.com/healthaffairsscholar/advance-article-pdf/doi/10.1093/haschl/qxag071/67932035/qxag071.pdf}
 }
