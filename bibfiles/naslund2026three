@@ -1,1 +1,11 @@
-@article{naslund2026three, author = {Naslund, Mark and Kim, Sungil and La Forgia, Ambar and League, Riley and McDevitt, Ryan and Wang, Xingzhi and Yang, Kelly Kaili}, title = {Three Facts about Private Equity in the U.S. Hospital Sector}, journal = {Health Affairs Scholar}, pages = {qxag217}, year = {2026}, month = {09}, doi = {10.1093/haschl/qxag217}, url = {https://doi.org/10.1093/haschl/qxag217}, eprint = {https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag217/8789865}, }
+@article{naslund2026three,
+  author = {Naslund, Mark and Kim, Sungil and La Forgia, Ambar and League, Riley and McDevitt, Ryan and Wang, Xingzhi and Yang, Kelly Kaili},
+  title = {Three Facts about Private Equity in the U.S. Hospital Sector},
+  journal = {Health Affairs Scholar},
+  pages = {qxag217},
+  year = {2026},
+  month = {09},
+  doi = {10.1093/haschl/qxag217},
+  url = {https://doi.org/10.1093/haschl/qxag217},
+  eprint = {https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag217/8789865}
+}
