@@ -71,6 +71,12 @@ Work in Progress, Contact for Draft
 ## Published Papers
 ***
 
+### [Three Facts about Private Equity in the U.S. Hospital Sector](https://rileyleague.github.io/publications/ThreeFacts)
+with Mark Naslund, Sungil Kim, Ambar La Forgia, Ryan McDevitt, Xingzhi Wang, and Kelly Kaili Yang \
+Published in _Health Affairs Scholar_, 2026, [Link](https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag217/8789865)
+
+**Takeaway:** PE ownership of hospitals is uncommon and most PE firms exit ownership within five years.
+
 ### [A Practitioner’s Guide to Using Data on Private Equity Hospital Acquisitions](https://rileyleague.github.io/publications/PractitionersGuide)
 with Sungil Kim, Mark Naslund, Xingzhi Wang, Abid Hasan, Hongbin Huang, Hyong-gu Hwang, Ambar La Forgia, Ryan McDevitt, and Kelly Kaili Yang \
 Published in _Health Affairs Scholar_, 2026, [Link](https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag071/8626085)
