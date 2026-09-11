@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/epo-elevation
 ---
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts<br>
-Revise and Resubmit at <em>American Economic Review</em><br>
+Conditionally accepted at <em>American Economic Review</em><br>
 Recent draft available [here](https://rileyleague.github.io/files/EPOelevation.pdf). BibTeX citation available [here](https://rileyleague.github.io/bibfiles/eliason2026epo.md).<br>
 Note that this paper previously circulated as "The Effect of Bundled Payments on Provider Behavior and Patient Outcomes: Evidence from the Dialysis Industry."
 
