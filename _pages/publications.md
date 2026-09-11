@@ -18,7 +18,7 @@ Below is a list of my research papers. Click on each one for more information. Y
 
 ### [Patient Heterogeneity and Treatment Choices: Evidence from the Dialysis Industry](https://rileyleague.github.io/publications/epo-elevation)
 with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
-Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/EPOelevation.pdf)
+Conditionally accepted at _American Economic Review_, [Link](https://rileyleague.github.io/files/EPOelevation.pdf)
 
 **Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events and has widely heterogeneous effects on patient health.
 
