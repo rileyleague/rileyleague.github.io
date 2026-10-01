@@ -2,5 +2,5 @@
     title={Avoiding Regulation: Evidence from Nursing Homes},
     author={Cheng, Alden and League, Riley J},
     year={2026},
-    annote={Working Paper}
+    institution={National Bureau of Economic Research}
 }
