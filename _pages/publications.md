@@ -52,7 +52,7 @@ Working Paper, [Link](https://rileyleague.github.io/files/w34802.pdf)
 
 ### [Avoiding Regulation: Evidence from Nursing Homes](https://rileyleague.github.io/publications/bunching_beds)
 with Alden Cheng \
-Working Paper, [Link](https://rileyleague.github.io/files/bunching_beds.pdf)
+Working Paper, [Link](https://rileyleague.github.io/files/w35849.pdf)
 
 **Takeaway:** A California nursing home staffing requirement causes facilities to shrink to avoid the regulation, reducing patient access without increasing staffing.
 
