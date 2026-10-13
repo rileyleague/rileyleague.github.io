@@ -1,6 +1,6 @@
 @techreport{cheng2026avoiding,
     title={Avoiding Regulation: Evidence from Nursing Homes},
-    author={Cheng, Alden and League, Riley J},
+    author={Cheng, Alden and League, Riley},
     year={2026},
     institution={National Bureau of Economic Research}
 }
