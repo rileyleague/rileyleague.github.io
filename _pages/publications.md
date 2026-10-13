@@ -56,7 +56,8 @@ Working Paper, [Link](https://rileyleague.github.io/files/w35849.pdf)
 
 **Takeaway:** A California nursing home staffing requirement causes facilities to shrink to avoid the regulation, reducing patient access without increasing staffing.
 
-### [Compliance with Ongoing Financial Reporting Mandates: Field Experimental Evidence on the Decision to Issue an Annual Report](https://rileyleague.github.io/publications/FormC_AR)
+### [Increasing Compliance with Ongoing Financial Reporting Mandates: Field Experimental Evidence
+](https://rileyleague.github.io/publications/FormC_AR)
 with Greg Burke \
 Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
 
