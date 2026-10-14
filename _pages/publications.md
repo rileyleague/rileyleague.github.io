@@ -64,7 +64,7 @@ Working Paper, [Link](https://rileyleague.github.io/files/ssrn-5463161.pdf)
 
 ### [The Cost of Financial Disclosure for Start-Up Firms](https://rileyleague.github.io/publications/FormC_A)
 with Greg Burke \
-Work in Progress, Contact for Draft
+Working Paper, [Link](https://rileyleague.github.io/files/ssrn-7607702.pdf)
 
 **Takeaway:** Most entrepreneurs are willing to close their Regulation Crowdfunding offerings at least six weeks early to avoid filing updated financial statements with the SEC. 
 
